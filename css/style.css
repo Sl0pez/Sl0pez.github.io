@@ -1,0 +1,32 @@
+@import url('https://fonts.googleapis.com/css?family=Raleway');
+
+body {
+	font-family: "Raleway", Arial;
+	background-image: url(images/a.jpg);
+	background-repeat: no-repeat;
+	background-position: center;
+	background-size: 50%;
+	background-color: #EFE8D6;
+	color: black;
+
+}
+
+a:link {
+	text-decoration: none;
+	color: #939393;
+}
+
+a:visited {
+	text-decoration: none;
+	color: #254b70;
+}
+
+a:hover, a:active {
+	text-decoration: underline;
+	color: #EFE8D6;
+}
+
+h1 {
+	color: #6B7A89;
+}
+
